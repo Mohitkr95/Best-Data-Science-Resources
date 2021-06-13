@@ -12,3 +12,6 @@ Some of the other free YouTube Resources!
 
 Don't forget it share it with your friends, star it and fork it on your GitHub, Have a happy learning!❤
 
+Reach me out at [Linkedin](https://www.linkedin.com/in/mohitkumar1999/)
+or mail at krmohit101@gmail.com📧
+
