@@ -2,7 +2,7 @@
 
 Hey, Data Enthusiasts out there! Finally, after lots of requests from the community I finally came up with the best free Data Science Resouces which will equip you with all the skills and Tech Stack required to get the Data Science job!🚀
 
-![image](https://user-images.githubusercontent.com/37563886/121809536-c352ec00-cc7a-11eb-8d13-5ec6ece96ee8.png)
+![image](https://user-images.githubusercontent.com/37563886/121814303-e1761780-cc8d-11eb-88dd-ec5fbb0dd50b.png)
 
 Some of the other free YouTube Resources!
 
